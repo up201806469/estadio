@@ -88,6 +88,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cliente.vb" />
+    <Compile Include="Collection_cliente.vb" />
+    <Compile Include="Collection_funcionario.vb" />
+    <Compile Include="Collection_funcionariovip.vb" />
+    <Compile Include="Collection_jornalista.vb" />
+    <Compile Include="Collection_pessoa.vb" />
+    <Compile Include="Collection_socio.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
