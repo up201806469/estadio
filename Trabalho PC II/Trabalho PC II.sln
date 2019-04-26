@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Trabalho PC II", "Trabalho PC II\Trabalho PC II.vbproj", "{B7AA7243-061F-4FC1-8B39-3B0F0C5E5988}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Trabalho PC II", "Trabalho PC II.vbproj", "{B7AA7243-061F-4FC1-8B39-3B0F0C5E5988}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
