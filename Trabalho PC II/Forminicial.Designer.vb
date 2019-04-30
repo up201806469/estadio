@@ -27,6 +27,7 @@ Partial Class Forminicial
         Me.Login = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Buttonautenticar = New System.Windows.Forms.Button()
+        Me.ButtonSignup = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'TextBoxlogin
@@ -71,11 +72,21 @@ Partial Class Forminicial
         Me.Buttonautenticar.Text = "Autenticar"
         Me.Buttonautenticar.UseVisualStyleBackColor = True
         '
+        'ButtonSignup
+        '
+        Me.ButtonSignup.Location = New System.Drawing.Point(525, 281)
+        Me.ButtonSignup.Name = "ButtonSignup"
+        Me.ButtonSignup.Size = New System.Drawing.Size(114, 60)
+        Me.ButtonSignup.TabIndex = 5
+        Me.ButtonSignup.Text = "Sign Up"
+        Me.ButtonSignup.UseVisualStyleBackColor = True
+        '
         'Forminicial
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(690, 395)
+        Me.Controls.Add(Me.ButtonSignup)
         Me.Controls.Add(Me.Buttonautenticar)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Login)
@@ -93,4 +104,5 @@ Partial Class Forminicial
     Friend WithEvents Login As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents Buttonautenticar As Button
+    Friend WithEvents ButtonSignup As Button
 End Class
