@@ -94,6 +94,7 @@
     <Compile Include="Collection_jornalista.vb" />
     <Compile Include="Collection_pessoa.vb" />
     <Compile Include="Collection_socio.vb" />
+    <Compile Include="dia.vb" />
     <Compile Include="Forminicial.vb">
       <SubType>Form</SubType>
     </Compile>
