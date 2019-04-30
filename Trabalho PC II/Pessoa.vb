@@ -2,6 +2,8 @@
     Private _nome As String
     Private _sexo As String
     Private _datanascimento As Date
+
+    'kçnknkn
 #Region "Construtores"
     Public Sub New()
 
@@ -40,7 +42,6 @@
         End Set
     End Property
 #End Region
-
 
 
 End Class
